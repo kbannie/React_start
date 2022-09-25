@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react';  //node_modules 디렉터리에 react 모듈이 설치됨 -> import 구문을 통해 리액트를 불러옴
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
